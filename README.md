@@ -2,19 +2,6 @@
 
 I'm **Naresh Narayanadasu**, a passionate DevOps Engineer skilled in leveraging cutting-edge technologies to streamline and automate infrastructure and application deployments.
 
----
-
-### 🌟 **What I Do**
-- **Cloud Computing:** Proficient in AWS
-- **Containerization:** Expertise in Docker and Kubernetes
-- **Automation & Scripting:** Shell scripting, Bash, Python, Terraform, Ansible
-- **CI/CD Pipelines:** Jenkins, Azure DevOps
-- **Infrastructure as Code (IaC):** Terraform, CloudFormation, ARM, Ansible
-- **Version Control:** Git, GitHub, Azure Repos
-- **Application Servers:** Nginx, Apache, Tomcat
-- **Operating Systems:** Linux, Windows
-
----
 
 ### 🤝 **Let's Collaborate**
 Feel free to reach out for collaborations or discussions about DevOps, automation, and cloud technologies. Together, we can build something amazing!
